@@ -1,6 +1,8 @@
-## Hi there 👋
+## Welcome to The Web Scraping Empire
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m1k0103)](https://git.io/streak-stats)
+### nah not really.. but i do like webscraping and web development
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=m1k0103&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 <!--
 **m1k0103/m1k0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
